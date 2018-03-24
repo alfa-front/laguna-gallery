@@ -1,1 +1,2 @@
 # laguna-gallery
+Website project
